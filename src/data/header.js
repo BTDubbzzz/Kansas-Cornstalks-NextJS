@@ -80,6 +80,11 @@ const navItems = [
 	// },
 	{
 		id: 6,
+		name: 'Projects',
+		href: '/projects',
+	},
+	{
+		id: 7,
 		name: 'Contact',
 		href: '/contact',
 	},

@@ -25,14 +25,11 @@ const SingleSlider = ({ slide = {}, sliderTwo = false }) => {
 							{sliderTwo && <div className="border-box"></div>}
 							<p className="main-slider-one__text">{text}</p>
 							<TextSplit text={title} as="h2" className="main-slider-one__title" />
-							<div>
-								<WorkOne></WorkOne>
-							</div>
-							{/* <div className="main-slider-one__btn">
+							<div className="main-slider-one__btn">
 								<Link href="/projects" className="thm-btn">
 									{sliderTwo ? 'Find Product' : 'See our work'}
 								</Link>
-							</div> */}
+							</div>
 						</div>
 					</Col>
 				</Row>

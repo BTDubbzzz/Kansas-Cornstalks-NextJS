@@ -53,7 +53,7 @@ const footerData = {
 		{
 			id: 8,
 			text: 'Our Work',
-			href: '/portfolio',
+			href: '/projects',
 		},
 		{
 			id: 9,
@@ -65,8 +65,8 @@ const footerData = {
 	bottomList: [
 		{
 			id: 1,
-			text: 'About Site',
-			href: '/about',
+			text: 'Created by Blake Wright',
+			href: 'https://www.linkedin.com/in/blake-wright-6409b818a/',
 		},
 	],
 };
