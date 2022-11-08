@@ -21,7 +21,7 @@ export const servicesNavItems = [
 const navItems = [
 	{
 		id: 1,
-		name: '',
+		name: 'Home',
 		href: '/',
 		// subNavItems: [
 		// 	{
@@ -45,17 +45,17 @@ const navItems = [
 		// 	},
 		// ],
 	},
-	// {
-	// 	id: 2,
-	// 	name: 'About',
-	// 	href: '/about',
-	// },
-	// {
-	// 	id: 3,
-	// 	name: 'Services',
-	// 	href: '/services',
-	// 	// subNavItems: servicesNavItems,
-	// },
+	{
+		id: 2,
+		name: 'About',
+		href: '/about',
+	},
+	{
+		id: 3,
+		name: 'Services',
+		href: '/services',
+		// subNavItems: servicesNavItems,
+	},
 	// {
 	// 	id: 4,
 	// 	name: 'Page',
@@ -78,11 +78,11 @@ const navItems = [
 	// 		{ id: 3, name: 'Blog Single', href: '/blog-single' },
 	// 	],
 	// },
-	// {
-	// 	id: 6,
-	// 	name: 'Contact',
-	// 	href: '/contact',
-	// },
+	{
+		id: 6,
+		name: 'Contact',
+		href: '/contact',
+	},
 ];
 
 export const socials = [

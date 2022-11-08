@@ -22,7 +22,7 @@ const Home = () => {
 			<Header />
 			<MainSlider />
 			{/* <YourProject /> */}
-			{/* <AboutOne aboutData={aboutOne} /> */}
+			<AboutOne aboutData={aboutOne} />
 			{/* <BestLogistics /> */}
 			{/* <ServicesOne itemsCount={3} /> */}
 			{/* <OurMaterial /> */}

@@ -86,9 +86,9 @@ const Header = ({ className = '' }) => {
 								</ul>
 							</div>
 
-							{/* <div className="hidden-content-button bar-box">
+							<div className="hidden-content-button bar-box">
 								<SideNavToggler onClick={setSideNav} />
-							</div> */}
+							</div>
 						</div>
 					</div>
 				</div>
