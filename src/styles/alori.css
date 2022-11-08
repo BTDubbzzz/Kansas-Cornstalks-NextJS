@@ -8170,6 +8170,30 @@ button {
 	width: 14px;
 }
 
+.lawn-mower-svgrepo-com {
+	content: url('../assets/images/icon/lawn-mower-svgrepo-com.svg');
+	height: 60%;
+	width: 60%;
+}
+
+.flowers-svgrepo-com {
+	content: url('../assets/images/icon/flowers-svgrepo-com.svg');
+	height: 60%;
+	width: 60%;
+}
+
+.lawn-svgrepo-com {
+	content: url('../assets/images/icon/lawn-svgrepo-com.svg');
+	height: 60%;
+	width: 60%;
+}
+
+.watering-svgrepo-com {
+	content: url('../assets/images/icon/watering-svgrepo-com.svg');
+	height: 60%;
+	width: 60%;
+}
+
 @media (min-width: 1200px) {
 	.testimonials-one #testimonials-one__carousel {
 		margin-left: 30px;

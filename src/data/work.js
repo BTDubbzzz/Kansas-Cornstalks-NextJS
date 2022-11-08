@@ -7,22 +7,22 @@ export const workOne = {
 	works: [
 		{
 			id: 1,
-			icon: 'icon-wood-board',
+			icon: 'lawn-mower-svgrepo-com',
 			title: 'Mowing',
 		},
 		{
 			id: 2,
-			icon: 'icon-wood',
+			icon: 'lawn-svgrepo-com',
 			title: 'Aeration',
 		},
 		{
 			id: 3,
-			icon: 'icon-wheel-saw',
+			icon: 'watering-svgrepo-com',
 			title: 'Irrigation',
 		},
 		{
 			id: 4,
-			icon: 'icon-chisel',
+			icon: 'flowers-svgrepo-com',
 			title: 'Landscaping',
 		},
 	],
