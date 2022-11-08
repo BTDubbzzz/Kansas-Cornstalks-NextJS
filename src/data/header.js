@@ -2,7 +2,7 @@ import bg from '@/images/backgrounds/lawn-hi-res.jpeg';
 import bg2 from '@/images/backgrounds/page-header-img3.jpg';
 import logo from '@/images/resources/intelligent-logo-transparent-rectangle-small.png';
 import logo3 from '@/images/resources/intelligent-logo-transparent-small.png';
-import logo2 from '@/images/resources/mobilemenu_logo.png';
+import logo2 from '@/images/resources/intelligent-logo-transparent-rectangle-small.png';
 
 export const servicesNavItems = [
 	{ id: 1, name: 'Services', href: '/services' },
@@ -94,26 +94,26 @@ export const socials = [
 ];
 
 export const socials3 = [
-	{
-		id: 1,
-		icon: 'fab fa-twitter',
-		href: '#',
-	},
+	// {
+	// 	id: 1,
+	// 	icon: 'fab fa-twitter',
+	// 	href: '#',
+	// },
 	{
 		id: 2,
 		icon: 'fab fa-facebook-square',
-		href: '#',
+		href: 'https://www.facebook.com/intelligentlawn',
 	},
-	{
-		id: 3,
-		icon: 'fab fa-pinterest-p',
-		href: '#',
-	},
-	{
-		id: 4,
-		icon: 'fab fa-instagram',
-		href: '#',
-	},
+	// {
+	// 	id: 3,
+	// 	icon: 'fab fa-pinterest-p',
+	// 	href: '#',
+	// },
+	// {
+	// 	id: 4,
+	// 	icon: 'fab fa-instagram',
+	// 	href: '#',
+	// },
 ];
 
 const info = {
