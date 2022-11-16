@@ -12,18 +12,18 @@ export const workOne = {
 		},
 		{
 			id: 2,
-			icon: 'lawn-svgrepo-com',
-			title: 'Aeration',
+			icon: 'flowers-svgrepo-com',
+			title: 'Landscaping',
 		},
 		{
 			id: 3,
-			icon: 'watering-svgrepo-com',
-			title: 'Irrigation',
+			icon: 'seeds-svgrepo-com',
+			title: 'Aeration/Overseed',
 		},
 		{
 			id: 4,
-			icon: 'flowers-svgrepo-com',
-			title: 'Landscaping',
+			icon: 'lawn-svgrepo-com',
+			title: 'Fertilization',
 		},
 	],
 };
