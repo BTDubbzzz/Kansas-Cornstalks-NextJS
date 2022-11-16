@@ -57,10 +57,12 @@ body.locked {
 
 #home-page_work-one {
 	color: white;
+	cursor: default;
 }
 
 #home-page_work-one:hover {
 	color: var(--alori-base);
+	cursor: default;
 }
 
 a {
@@ -3094,12 +3096,16 @@ button {
 	content: '';
 }
 
+.bg1.work-one__single-icon::before {
+	background: #f9f5ed;
+}
+
 .bg2.work-one__single-icon::before {
-	background: #faf1f1;
+	background: #f9f5ed;
 }
 
 .bg3.work-one__single-icon::before {
-	background: #eff9ff;
+	background: #f9f5ed;
 }
 
 .bg4.work-one__single-icon::before {
@@ -8184,6 +8190,12 @@ button {
 
 .lawn-svgrepo-com {
 	content: url('../assets/images/icon/lawn-svgrepo-com.svg');
+	height: 60%;
+	width: 60%;
+}
+
+.seeds-svgrepo-com {
+	content: url('../assets/images/icon/seeds-svgrepo-com.svg');
 	height: 60%;
 	width: 60%;
 }
